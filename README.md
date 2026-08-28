@@ -14,3 +14,5 @@ A fully automated inventory management system for a fictional retail business tr
 - Blue editable inputs and black calculated formulas throughout
 
 **Tools:** Excel · COUNTIF/SUMIF · Nested IF · Conditional Formatting · Cross-sheet References
+
+![Tracker Dashboard](https://github.com/Ajtech27/ShelfSync_Inventory_Tracker---Excel/blob/main/Stock%20Dashboard.png)

@@ -15,5 +15,13 @@ A fully automated inventory management system for a fictional retail business tr
 
 **Tools:** Excel · COUNTIF/SUMIF · Nested IF · Conditional Formatting · Cross-sheet References
 
+---
+### ShelfSync Inventory Tracker Dashboard
+
 ![Tracker Dashboard](https://github.com/Ajtech27/ShelfSync_Inventory_Tracker---Excel/blob/main/Stock%20Dashboard.png)
+
+---
+
+### ShelfSync_Inventory_Movement
+
 ![Stock Movement](https://github.com/Ajtech27/ShelfSync_Inventory_Tracker---Excel/blob/main/Stock%20Movement.png)
